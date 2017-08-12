@@ -4,7 +4,7 @@
 
 A simple pomodoro clock timer. I drew the tomatoes.
 
-Created initially for [FreeCodeCamp](https://www.freecodecamp.com/vickylaiio)'s Front-End Developer Certification Course. The first (not actively maintained) version is on [CodePen](https://codepen.io/vickylaiio/full/eRWYPp/).
+Created initially for [FreeCodeCamp](https://www.freecodecamp.com/hivickylai)'s Front-End Developer Certification Course. The first (not actively maintained) version is on [CodePen](https://codepen.io/hivickylai/full/eRWYPp/).
 
 ***
 
